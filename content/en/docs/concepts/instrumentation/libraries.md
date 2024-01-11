@@ -5,7 +5,7 @@ aliases: [../instrumenting-library]
 weight: 40
 ---
 
-OpenTelemetry provides [instrumentation libraries][] for many libraries, which
+OpenTelemetry provides [instrumentation libraries][] for many languages, which
 is typically done through library hooks or monkey-patching library code.
 
 Native library instrumentation with OpenTelemetry provides better observability
